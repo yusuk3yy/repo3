@@ -1,1 +1,2 @@
 # repo3
+I am looking forward to learn how to make the website that Mr. C showed us last week. From what I remember the website is called "guess the number".  I wonder if we use github or terminal to make that type of website.
